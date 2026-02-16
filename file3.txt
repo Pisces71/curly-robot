@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 in file3
+=======
+this is file3
+>>>>>>> 6a85fc37ef7cc1288cf6e64ccc2a720c8777acfb
